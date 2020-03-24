@@ -1,0 +1,2 @@
+rootProject.name='ComponentCourse Assignment[2] Calculator'
+include ':app'

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComponentCourse Assignment[2] ToDoApp</string>
+    <string name="add_btn">Add Note</string>
+    <string name="text_hint">Enter TODO Note</string>
+    <string name="tite">ToDo App</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ComponentCourse Assignment[2] Calculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="title1" >Number 1</string>
+    <string name="title2" >Number 2</string>
+    <string name="result" >Result</string>
+    <string name="hint" >0</string>
+
+    <string name="add_Item">ADD</string>
+    <string name="sub_Item">SUB</string>
+    <string name="mul_Item">MUL</string>
+    <string name="mul3_Item">MUL 3</string>
+    <string name="mul4_Item">MUL 4</string>
+    <string name="div_Item">DIV</string>
+</resources>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.componentcourseassignment2calculator.MainActivity">
+    <item android:title="@string/add_Item" android:id="@+id/add"/>
+    <item android:title="@string/sub_Item" android:id="@+id/sub"/>
+    <item android:title="@string/mul_Item" android:id="@+id/mul">
+        <menu>
+            <item android:id="@+id/mul3" android:title="@string/mul3_Item"/>
+            <item android:id="@+id/mul4" android:title="@string/mul4_Item"/>
+        </menu>
+    </item>
+    <item android:title="@string/div_Item" android:id="@+id/div"/>
+</menu>
